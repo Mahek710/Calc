@@ -47,11 +47,11 @@ footer{
 @media( max-width: 900px)
 {
 input{
-width: 40%;
-height: 3em;
+width: 70%;
+height: 8em;
 }
 p{
-    font-size: 2em;
+    font-size: 5em;
 }
 button{
     width: 2em;
