@@ -44,14 +44,14 @@ footer{
     height: 1.5rem;
     
 }
-@media( max-width: 900px)
+@media only screen and ( max-width: 900px)
 {
 input{
-width: 70%;
-height: 8em;
+width: 50%;
+height: 4em;
 }
 p{
-    font-size: 5em;
+    font-size: 3em;
 }
 button{
     width: 2em;
