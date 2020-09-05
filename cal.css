@@ -53,6 +53,9 @@ height: 4em;
 p{
     font-size: 3em;
 }
+body{
+    background-size: contain;
+}
 button{
     width: 2em;
     height: 2em;
